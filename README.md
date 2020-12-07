@@ -1,6 +1,6 @@
 # rss
 
-You can use rss in wordpress and all kinds of services that support rss feed. You need a php server, kevacoin wallet and setup few files. You can change your own datas like user/password/port.
+You can use rss in wordpress or all kinds of services which support rss feed. You need a php server, kevacoin wallet and setup few files. You can change your own datas like user/password/port.
 
 Demo
 
